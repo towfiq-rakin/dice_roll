@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54973505598",
+    "project_id": "dice-roll-b65cc",
+    "storage_bucket": "dice-roll-b65cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54973505598:android:246a3d4e79f3cae3b6316f",
+        "android_client_info": {
+          "package_name": "com.example.dice_roll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhq3Jb0yslHzjq3j91V5cO9hJbWMQOUro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
